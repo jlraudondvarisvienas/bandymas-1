@@ -1,0 +1,4 @@
+string = 'sveiki visi'
+for raide in string:
+  print(raide)
+print(string)
